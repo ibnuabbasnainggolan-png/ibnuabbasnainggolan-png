@@ -14,14 +14,14 @@
   <a href="https://instagram.com/ibnuabbaz_12" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://github.com/ibnuabbaz" target="_blank">
+  <a href="https://github.com/ibnuabbasnainggolan-png" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <br/><br/>
 
   <!-- Profile Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=ibnuabbaz&style=flat-square&color=007acc&label=PROFILE+VIEWS" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=ibnuabbasnainggolan-png&style=flat-square&color=007acc&label=PROFILE+VIEWS" alt="Visitor Count" />
 
 </div>
 
